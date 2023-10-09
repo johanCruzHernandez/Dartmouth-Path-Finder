@@ -1,5 +1,6 @@
 # Dartmouth Path Finder
 ## Author: Johan Cruz Hernandez
+## Programming Language: Python
 ### About
 This program uses the breadth-first search algorithm to display the shortest path between two points (modeled as vertices) on the Dartmouth College campus.
 ### How to run:
