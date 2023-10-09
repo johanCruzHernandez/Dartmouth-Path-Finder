@@ -17,3 +17,4 @@ This program is super simple to use.
 - vertices.txt: stores the vertices of an adjacent vertex in csv format and also the location on the darmtouth_graph.png
 - dartmouth_graph.txt: stores a location (and its coordinates) on the campous as well as the adjacent locations
 - dartmouth_map.png: map of dartmouth campus
+- -cs1lib.py: Dartmouth's graphic library
